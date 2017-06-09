@@ -1,0 +1,17 @@
+body{
+	background-image: url('/images/p4.png');
+	font-family: 'Poppins', sans-serif;
+}
+
+a{
+	color: #d3655f;
+}
+
+a:hover{
+	color: #9e312c;
+	text-decoration: none;
+}
+
+hr{
+	border-top-color: #b1b1b1;
+}

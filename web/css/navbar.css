@@ -1,0 +1,32 @@
+.navbar-fixed-top{
+	border-width: 0px;
+}
+
+nav .container-fluid {
+	max-width:900px;
+	margin: auto;
+}
+
+.navbar .navbar-brand{
+	padding: 5px 0;
+}
+
+.navbar .navbar-brand img{
+	height: 100%;
+}
+
+.navbar-nav li{
+	font-weight: bold;
+} 
+
+.navbar-nav .dropdown-menu{
+	
+}
+
+footer .row{
+	text-align: center;
+}
+
+.navbar-nav li:hover{
+	background-color: #3a3a3a;
+}

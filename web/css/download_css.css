@@ -1,0 +1,78 @@
+h1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 32pt;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+@media(max-width: 712px)
+{
+	h1{
+		text-decoration: none;
+	}
+	
+	#hypen{
+		visibility: hidden;
+	}
+}
+
+h2{
+	font-weight: bold;
+	color: #80bacc;
+}
+
+hr{
+	border-top-color: #b1b1b1;
+}
+
+pre strong{
+	color: #da4444;
+}
+
+#latest{
+	text-align: center;
+}
+
+#latest h2{
+	color: #58b158;
+}
+
+#latest .btn{
+	margin-bottom: 10px;
+	font-size: 14pt;
+}
+
+#install h3{
+	text-decoration: underline;
+	font-size: 14pt;
+}
+
+#install ol li{
+	font-size: 13pt;
+}
+
+#credits{
+	text-align: center;
+}
+
+#downloads .btn{
+	width: 75%;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+	target-name: new;
+}
+
+#downloads a{
+	color: white;
+	font-weight: bold;
+}
+
+ul{
+	padding-left: 0px;
+}
+
+ul li{
+	list-style-type: none;
+}

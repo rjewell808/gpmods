@@ -1,0 +1,57 @@
+h1{
+	text-align: center;
+	font-weight: bold;
+	color: #da4444;
+}
+
+p{
+	text-align: center;
+	font-size: 13pt;
+}
+
+h2{
+	text-align: center;
+	font-weight: bold;
+}
+
+.btn{
+	display: block;
+	margin: auto;
+}
+
+@media(max-width: 991px)
+{
+	.btn{
+		margin-bottom: 15px;
+		width: 80%;
+	}
+}
+
+.glyphicon{
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-size: 200%;
+	margin-bottom: 20px;
+}
+
+#main-logo{
+	display: block;
+	margin: auto;
+	width: 100%;
+	max-width: 764px;
+}
+
+#row-2{
+	margin-top: 20px;
+}
+
+#features{
+	text-align: center;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+#features ul li{
+	list-style-type: none;
+}
