@@ -655,8 +655,6 @@
 			'desc' => "8.5 Armor slots / Full Set: No Fall Damage"
 		)); ?>
 	</div>
-	
-	<hr>
 </div>
 
 <!-- Footer -->

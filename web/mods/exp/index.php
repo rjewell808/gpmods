@@ -32,9 +32,9 @@
 			</a>
 		</div>
 		<div class="col-md-4">
-			<a class="btn btn-success" href="download">
+			<a class="btn btn-success" href="media">
 				<h2 id="screenshots">Screenshots / Media</h2>
-				<span class="glyphicon glyphicon-film" aria-hidden="true"></span>
+				<span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
 			</a>
 		</div>
 	</div>

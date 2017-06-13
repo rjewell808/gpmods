@@ -14,33 +14,26 @@
 	<a href=".." class="btn btn-default"><span class="glyphicon glyphicon-arrow-left"></span> Back - VanillaPlus</a>
 	
 	<div class="row screenshots">
-		<div class="col-md-6">
-			<img src="/images/vanillaplus/media/obs_armor.png">
-		</div>
-		
-		<div class="col-md-6">
-			<img src="/images/vanillaplus/media/overview.png">
+		<div class="col-md-12">
+			<img src="/images/exp/media/table_close.png">
 		</div>
 	</div>
 	<div class="row screenshots">
-		<div class="col-md-4">
-			<img src="/images/vanillaplus/media/scuba_armor.png">
+		<div class="col-md-6">
+			<img src="/images/exp/media/table_far.png">
 		</div>
-		<div class="col-md-4">
-			<img src="/images/vanillaplus/media/1_3.png">
-		</div>
-		<div class="col-md-4">
-			<img src="/images/vanillaplus/media/enchant_dust.png">
+		<div class="col-md-6">
+			<img src="/images/exp/media/items.png">
 		</div>
 	</div>
 	
 	<div class="row video">
 		<div class="col-md-6">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/JspebF6UGXg" frameborder="0" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/QuSlY2Y9hRk" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
 		<div class="col-md-6">
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/KZqixSCRvn0" frameborder="0" allowfullscreen></iframe>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/nH4fs5AvjMc" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
 
