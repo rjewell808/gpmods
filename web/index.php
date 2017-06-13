@@ -9,16 +9,55 @@
  	'page_title' => "/css/home_css.css"
          ));
 ?>
-
+		
         <!-- Jumbotron Header -->
-        <header class="jumbotron hero-spacer">
-            <h1>Welcome to Gruntpie's Mods</h1>
-            <p>
-				This is the home of Wintercraft, VanillaPlus, and Exp-Translation! 
+        <div id="carousel-example-generic" class="carousel slide hidden-sm hidden-xs" data-ride="carousel">
+		 
+		  <ol class="carousel-indicators">
+			<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+			<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+			<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+		  </ol>
+
+		
+		  
+		 
+		  <div class="carousel-inner" role="listbox">
+			<header class="jumbotron hero-spacer" id="overlay">
+				<h1>Welcome to Gruntpie's Mods</h1>
+				<p>
+					This is the home of Wintercraft, VanillaPlus, and Exp-Translation! 
 					<br>
+					Here you'll be able to find all the latest info and update information on my many mods. 
+				</p>
+			</header>
+		  
+			<div class="item active">
+			  <img src="/images/slide/slide_1.png" alt="...">
+			</div>
+			
+			<div class="item">
+			  <img src="/images/slide/slide_2.png" alt="...">
+			</div>
+			
+			<div class="item">
+			  <img src="/images/slide/slide_3.png" alt="...">
+			</div>
+		  </div>
+
+		
+		</div>  
+		
+	<div class="container">
+		
+		<header class="jumbotron hero-spacer visible-sm visible-xs">
+			<h1>Welcome to Gruntpie's Mods</h1>
+			<p>
+				This is the home of Wintercraft, VanillaPlus, and Exp-Translation! 
+				<br>
 				Here you'll be able to find all the latest info and update information on my many mods. 
 			</p>
-        </header>
+		</header>
 		
         <!-- Title -->
         <div class="row">
@@ -73,6 +112,7 @@
         </div>
         <!-- /.row -->
 		
+		
 		<div id="about-me" class="row">
 			<h1>About Gruntpie224</h1>
 			<p>
@@ -85,6 +125,7 @@
 		</div>
 		<!-- /.row -->
 
+	</div>
 <!-- Footer -->
 <?php
  echo $twig->render('_footer.php');

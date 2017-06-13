@@ -19,12 +19,34 @@ h2{
 	margin: auto;
 }
 
+@media(max-width: 1199px)
+{
+	#screenshots{
+		font-size: 25px;
+	}
+}
+
 @media(max-width: 991px)
 {
 	.btn{
 		margin-bottom: 15px;
-		width: 80%;
+		width: 85%;
 	}
+	
+	#main-logo{
+		padding: 0 10px;
+	}
+}
+
+@media(max-width: 450px)
+{
+	#screenshots-lg{
+		font-size: 25px;
+	}
+}
+
+.fix-row{
+	margin: 0;
 }
 
 .glyphicon{
@@ -54,4 +76,8 @@ h2{
 
 #features ul li{
 	list-style-type: none;
+}
+
+#features ul{
+	padding: 0;
 }

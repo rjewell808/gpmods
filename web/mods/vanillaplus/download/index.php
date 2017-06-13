@@ -10,9 +10,9 @@
          ));
 ?>
 
-<a href=".." class="btn btn-default"><span class="glyphicon glyphicon-arrow-left"></span> Back - VanillaPlus</a>
-
 <div class="col-lg-12">
+	<a href=".." class="btn btn-default"><span class="glyphicon glyphicon-arrow-left"></span> Back - VanillaPlus</a>
+	
 	<h1>VanillaPlus <span id="hypen">-</span> Downloads</h1>
 	
 	<div class="row" id="latest">

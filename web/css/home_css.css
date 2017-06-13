@@ -1,6 +1,60 @@
+body{
+	padding-top: 50px;
+}
+
+#main-content{
+	width: 100%;
+	padding: 0;
+	margin: 0 auto;
+}
+
+.row{
+	margin: 0;
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+
 #about-me img{
 	margin: auto;
 	display: block;
 	width: 100%;
 	max-width: 350px;
+}
+
+.carousel-inner{
+	max-height: 500px;
+}
+
+.carousel-inner img{
+	width: 100%;
+}
+
+#overlay{
+	margin-left: -30%;
+	left: 50%;
+	z-index: 15;
+	position: absolute;
+	width: 60%;
+	background-color: rgba(238, 238, 238, .7);
+}
+
+@media(max-width: 1600px)
+{
+	.jumbotron h1{
+		font-size: 50px;
+	}
+	
+	.jumbotron p{
+		font-size: 18px;
+	}
+}
+
+@media(max-width: 1405px)
+{
+	.jumbotron h1{
+		font-size: 40px;
+	}
+
 }

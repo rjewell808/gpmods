@@ -10,9 +10,9 @@
          ));
 ?>
 
-<a href=".." class="btn btn-default"><span class="glyphicon glyphicon-arrow-left"></span> Back - ExpTranslation</a>
-
 <div class="col-lg-12">
+	<a href=".." class="btn btn-default"><span class="glyphicon glyphicon-arrow-left"></span> Back - ExpTranslation</a>
+	
 	<h1>ExpTranslation <span id="hypen">-</span> Downloads</h1>
 	
 	<div class="row" id="latest">

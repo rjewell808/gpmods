@@ -18,7 +18,7 @@
 		Well this is the mod for you! This mod adds blocks and items that would normally fit into the game but just aren't there, and gives the most useless items a use!
 	</p>
 	<hr>
-	<div class="row">
+	<div class="row fix-row">
 		<div class="col-md-4">
 			<a class="btn btn-success" href="download">
 				<h2>Downloads</h2>
@@ -26,14 +26,14 @@
 			</a>
 		</div>
 		<div class="col-md-4">
-			<a class="btn btn-success" href="download">
+			<a class="btn btn-success" href="recipe">
 				<h2>Recipes</h2>
 				<span class="glyphicon glyphicon-book" aria-hidden="true"></span>
 			</a>
 		</div>
 		<div class="col-md-4">
 			<a class="btn btn-success" href="download">
-				<h2>Screenshots / Media</h2>
+				<h2 id="screenshots">Screenshots / Media</h2>
 				<span class="glyphicon glyphicon-film" aria-hidden="true"></span>
 			</a>
 		</div>
