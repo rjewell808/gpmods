@@ -154,7 +154,7 @@
 		)); ?>
 		<?php echo $twig->render('_recipe_win.php', array(
 			'name' => "Advent Calendar",
-			'pic' => "adv_cal.png",
+			'pic' => "advent_cal.png",
 			'desc' => "Like the Countdown Calendar but you get daily treats"
 		)); ?>
 	</div>
