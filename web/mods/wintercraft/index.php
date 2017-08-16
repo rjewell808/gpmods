@@ -51,7 +51,7 @@
 			</a>
 		</div>
 		<div class="col-md-4">
-			<a class="btn btn-success" href="download">
+			<a class="btn btn-success" href="events">
 				<h2>Events</h2>
 				<span class="glyphicon glyphicon-tree-conifer" aria-hidden="true"></span>
 			</a>
