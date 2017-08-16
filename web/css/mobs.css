@@ -1,0 +1,29 @@
+h1{
+	text-align: center;
+}
+
+.mobs img{
+	width: 100%;
+	margin: auto;
+	display: block;
+}
+
+.mobs h2{
+	font-weight: bold;
+}
+
+.mobs div{
+	margin-bottom: 20px;
+}
+
+.mobs .h{
+	color: #d3655f;
+}
+
+.mobs .n{
+	color: #4CAAC9
+}
+
+.mobs .p{
+	color: #6CB83A
+}

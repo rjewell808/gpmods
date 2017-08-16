@@ -24,7 +24,7 @@
 			<li>I have all rights to revoke access of my mod from your modpack if any violations occur. </li>
 		</ol>
 		<p>
-			If you follow these rules than you are free to use VanillaPlus/Wintercraft in your modpack! 
+			If you follow these rules than you are free to use VanillaPlus/Wintercraft/ExpTranslation in your modpack! 
 			<br>
 			<br>
 			Enjoy,<br>

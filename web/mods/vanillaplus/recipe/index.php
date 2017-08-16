@@ -655,6 +655,63 @@
 			'desc' => "8.5 Armor slots / Full Set: No Fall Damage"
 		)); ?>
 	</div>
+	
+	<div class="row">
+		<?php echo $twig->render('_recipe.php', array(
+			'name' => "Scuba Helmet",
+			'pic' => "scuba_helmet.png",
+			'desc' => "7.5 Armor slots / Full Set: Water Breathing"
+		)); ?>
+	
+		<?php echo $twig->render('_recipe.php', array(
+			'name' => "Scuba Chestplate",
+			'pic' => "scuba_chest.png",
+			'desc' => "7.5 Armor slots / Full Set: Water Breathing"
+		)); ?>
+		
+		<?php echo $twig->render('_recipe.php', array(
+			'name' => "Scuba Leggings",
+			'pic' => "scuba_legs.png",
+			'desc' => "7.5 Armor slots / Full Set: Water Breathing"
+		)); ?>
+	</div>
+	
+	<div class="row">
+		<?php echo $twig->render('_recipe.php', array(
+			'name' => "Scuba Boots",
+			'pic' => "scuba_boots.png",
+			'desc' => "7.5 Armor slots / Full Set: Water Breathing"
+		)); ?>
+		
+		<?php echo $twig->render('_recipe.php', array(
+			'name' => "Scorched Helmet",
+			'pic' => "magma_helmet.png",
+			'desc' => "7 Armor slots / Full Set: Fire Protection"
+		)); ?>
+	
+		<?php echo $twig->render('_recipe.php', array(
+			'name' => "Scorched Chestplate",
+			'pic' => "magma_chest.png",
+			'desc' => "7 Armor slots / Full Set: Fire Protection"
+		)); ?>
+	</div>
+	
+	<div class="row">
+		<?php echo $twig->render('_recipe.php', array(
+			'name' => "Scorched Leggings",
+			'pic' => "magma_legs.png",
+			'desc' => "7 Armor slots / Full Set: Fire Protection"
+		)); ?>
+		
+		<?php echo $twig->render('_recipe.php', array(
+			'name' => "Scorched Boots",
+			'pic' => "magma_boots.png",
+			'desc' => "7 Armor slots / Full Set: Fire Protection"
+		)); ?>
+
+	</div>
+	
+	<a href="#" class="btn btn-info">Back to the Top</a>
 </div>
 
 <!-- Footer -->

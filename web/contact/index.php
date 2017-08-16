@@ -1,0 +1,35 @@
+<?php
+ require_once '../../vendor/autoload.php';
+ $loader = new Twig_Loader_Filesystem($_SERVER['DOCUMENT_ROOT']."/_partials");
+ $twig = new Twig_Environment($loader, array(
+    /*'cache' => 'compilation-cache', */
+ ));
+ 
+ echo $twig->render('_header.php', array(
+ 	'page_title' => "/css/contact_css.css"
+         ));
+?>
+
+<div class="row">
+	If you ever need to get in contact with me with questions0, suggestions, or general hellos, you can find me in these various ways!<br>
+	<br>
+	<div class="col-xs-6">
+		<h2>Contact</h2>
+		Email: <a href="mailto:diamonddiggersgaming@gmail.com" target="_blank">diamonddiggersgaming@gmail.com</a>
+		<br>Twitter: <a href="https://twitter.com/RobertTheJewell" target="_blank">@RobertTheJewell</a>
+		<br>Minecraft Forums: <a href="http://www.minecraftforum.net/members/gruntpie224" target="_blank">gruntpie224</a>
+	</div>
+	<div class="col-xs-6">
+		<h2>Dontate</h2>
+		Here's something that is not at all required but for those who would like to help with development costs such as this website :)<br>
+		<br>
+		Paypal Link: <a href="https://www.paypal.me/RJewell808" target="_blank">RJewell808</a>
+		<br><br>
+		Thank you for any help!
+	</div>
+</div>
+
+<!-- Footer -->
+<?php
+ echo $twig->render('_footer.php');
+?>

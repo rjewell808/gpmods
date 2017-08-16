@@ -37,7 +37,7 @@ body{
 	z-index: 15;
 	position: absolute;
 	width: 60%;
-	background-color: rgba(238, 238, 238, .7);
+	background-color: rgba(238, 238, 238, .8);
 }
 
 @media(max-width: 1600px)

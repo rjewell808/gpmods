@@ -30,7 +30,7 @@
 			</a>
 		</div>
 		<div class="col-md-6">
-			<a class="btn btn-success" href="download">
+			<a class="btn btn-success" href="media">
 				<h2 id="screenshots-lg">Screenshots / Media</h2>
 				<span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
 			</a>
@@ -39,13 +39,13 @@
 	
 	<div class="row fix-row" id="row-2">
 		<div class="col-md-4">
-			<a class="btn btn-success" href="download">
+			<a class="btn btn-success" href="recipe">
 				<h2>Recipes</h2>
 				<span class="glyphicon glyphicon-book" aria-hidden="true"></span>
 			</a>
 		</div>
 		<div class="col-md-4">
-			<a class="btn btn-success" href="download">
+			<a class="btn btn-success" href="mobs">
 				<h2>Mobs</h2>
 				<span class="glyphicon glyphicon-grain" aria-hidden="true"></span>
 			</a>

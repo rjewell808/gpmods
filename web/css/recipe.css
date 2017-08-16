@@ -11,10 +11,28 @@ p{
 	text-align: center;
 }
 
-#recipes img{
+.info-sheet{
+	max-width: 650px;
+	width: 90%;
+	margin: auto;
+	display: block;
+}
+
+#recipes .recipe-img{
 	display: block;
 	margin: auto;
 	width: 100%;
+}
+
+@media(max-width: 767px)
+{
+	#recipes .recipe-img{
+		width: 80%;
+	}
+}
+
+#recipes, #recipes .row{
+	margin: 0px;
 }
 
 #recipes hr{

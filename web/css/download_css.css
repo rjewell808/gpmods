@@ -30,6 +30,10 @@ pre strong{
 	color: #da4444;
 }
 
+#downloads h3{
+
+}
+
 #latest{
 	text-align: center;
 }
@@ -59,7 +63,7 @@ pre strong{
 #downloads .btn{
 	width: 75%;
 	display: block;
-	margin: auto;
+	
 	margin-bottom: 10px;
 	target-name: new;
 }
@@ -67,6 +71,10 @@ pre strong{
 #downloads a{
 	color: white;
 	font-weight: bold;
+}
+
+#downloads .row{
+	padding: 0px 15px;
 }
 
 ul{
