@@ -444,11 +444,16 @@
 	</p>
 	
 	<div class="row">
-		<img class="info-sheet" src="/images/wintercraft/info/santa_armor.png">
+		<div class="col-xs-12">
+			<img class="info-sheet" src="/images/wintercraft/info/santa_armor.png">
+		</div>
 	</div>
 	
 	<div class="row">
-		<a href="#" class="btn btn-info">Back to the Top</a>
+		<div class="col-xs-12">
+			<br>
+			<a href="#" class="btn btn-info">Back to the Top</a>
+		</div>
 	</div>
 </div>
 

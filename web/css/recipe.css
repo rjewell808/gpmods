@@ -18,6 +18,10 @@ p{
 	display: block;
 }
 
+#recipes .btn{
+	margin-bottom: 5px;
+}
+
 #recipes .recipe-img{
 	display: block;
 	margin: auto;
@@ -27,7 +31,7 @@ p{
 @media(max-width: 767px)
 {
 	#recipes .recipe-img{
-		width: 80%;
+		width: 90%;
 	}
 }
 

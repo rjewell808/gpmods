@@ -112,6 +112,21 @@
         </div>
         <!-- /.row -->
 		
+		<!-- Title -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>News</h3>
+				<ul class="list-group">
+				  <li class="list-group-item list-group-item-info">
+					<h4 class="list-group-item-heading">GPMODS.NET LAUNCH - 08/17/2017</h4>
+					<p class="list-group-item-text">Welcome to the brand new website where I'll be hosting my mods! Please explore and be
+					sure to suggest any ideas at: <a href="mailto:diamonddiggersgaming@gmail.com">diamonddiggersgaming@gmail.com</a>
+					</p>
+				  </li>
+				</ul>
+            </div>
+        </div>
+		
 		
 		<div id="about-me" class="row">
 			<h1>About Gruntpie224</h1>

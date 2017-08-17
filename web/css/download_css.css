@@ -68,6 +68,13 @@ pre strong{
 	target-name: new;
 }
 
+@media(max-width: 550px)
+{
+	#downloads .btn{
+		width: 100%;
+	}
+}
+
 #downloads a{
 	color: white;
 	font-weight: bold;
