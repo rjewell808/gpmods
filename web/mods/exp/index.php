@@ -14,8 +14,8 @@
 	<img id="main-logo" src="/images/exp/exp_logo.png">
 	<h1>OVER 12,000 DOWNLOADS!</h1>
 	<p>
-		Have you ever wanted a use for those stacks of rotten flesh or ever wanted a way to craft bottles of XP or just store it away?
-		Well this is the mod for you! This mod adds blocks and items that would normally fit into the game but just aren't there, and gives the most useless items a use!
+		Tired of losing levels upon levels of experience to an untimely death or ever wish you could share your experience with a friend? Well now you can with Exp-Translation!
+		Simply craft an ExpTranslator Table and some vials to store as many levels of experience as you wish! Just right-click the vials on the table to get started!
 	</p>
 	<hr>
 	<div class="row fix-row">
