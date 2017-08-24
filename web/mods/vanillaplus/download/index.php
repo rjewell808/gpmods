@@ -18,7 +18,8 @@
 	<div class="row" id="latest">
 		<h2>Latest Version</h2>
 		<div class="row">
-			<a class="btn btn-success" href="http://adf.ly/1Nrp8E" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.8</a>
+			<a class="btn btn-success" href="http://adf.ly/1Nrp8E" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.8</a><br>
+			<a class="btn btn-success" href="http://cogismith.com/1Mpo" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.7.10</a>
 			<br>Requires Minecraft Forge to work
 		</div>
 	</div>
@@ -30,8 +31,10 @@
 			<h2>Previous Versions</h2>
 			<div class="row">
 				<h3>Minecraft 1.8</h3>
+					<a class="btn btn-info" href="http://adf.ly/1Nrp8E" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.8</a>
 					<a class="btn btn-info" href="http://adf.ly/1Q1xg8" target="_blank">VanillaPlus v1.5.0 for Minecraft 1.8</a>
 				<h3>Minecraft 1.7.10</h3>
+					<a class="btn btn-info" href="http://cogismith.com/1Mpo" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.7.10</a>
 					<a class="btn btn-info" href="http://bit.ly/1tjA8gI" target="_blank">VanillaPlus v1.4.4 for Minecraft 1.7.10</a>
 					<a class="btn btn-info" href="http://adf.ly/sWkK0" target="_blank">VanillaPlus v1.4.3 for Minecraft 1.7.10</a>
 					<a class="btn btn-info" href="http://adf.ly/rLEye" target="_blank">VanillaPlus v1.4.2 for Minecraft 1.7.10</a>

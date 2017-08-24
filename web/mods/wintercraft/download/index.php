@@ -18,7 +18,7 @@
 	<div class="row" id="latest">
 		<h2>Latest Version</h2>
 		<div class="row">
-			<a class="btn btn-success" href="http://adf.ly/1gCvoR" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8.9</a>
+			<a class="btn btn-success" href="http://adf.ly/1gCvoR" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8.9</a><br>
 			<a class="btn btn-success" href="http://adf.ly/1g1q99" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8</a>
 			<br>Requires Minecraft Forge to work
 		</div>
@@ -30,6 +30,10 @@
 		<div class="col-lg-6">
 			<h2>Previous Versions</h2>
 			<div class="row">
+				<h3>Minecraft 1.8.9</h3>
+					<a class="btn btn-info" href="http://adf.ly/1gCvoR" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8.9</a>
+				<h3>Minecraft 1.8</h3>
+					<a class="btn btn-info" href="http://adf.ly/1g1q99" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8</a>
 				<h3>Minecraft 1.7.10</h3>
 					<a class="btn btn-info" href="http://adf.ly/auim3" target="_blank">Wintercraft v1.1.3 for Minecraft 1.7.10</a>
 					<a class="btn btn-info" href="http://adf.ly/1NXXll" target="_blank">Wintercraft v1.1.2 for Minecraft 1.7.10</a>

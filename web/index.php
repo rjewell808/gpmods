@@ -117,6 +117,12 @@
             <div class="col-lg-12">
                 <h3>News</h3>
 				<ul class="list-group">
+				  <li class="list-group-item list-group-item">
+					<h4 class="list-group-item-heading">VANILLAPLUS UPDATE - 08/24/2017</h4>
+					<p class="list-group-item-text">VanillaPlus has received the 1.5.1 update for Minecraft 1.7.10. While it's nothing major
+					I figured since 1.7.10 is still the most popular version I'd update it to be very close to the 1.8 version on VanillaPlus. Enjoy!</a>
+					</p>
+				  </li>
 				  <li class="list-group-item list-group-item-info">
 					<h4 class="list-group-item-heading">GPMODS.NET LAUNCH - 08/17/2017</h4>
 					<p class="list-group-item-text">Welcome to the brand new website where I'll be hosting my mods! Please explore and be

@@ -29,6 +29,8 @@
 		<div class="col-lg-6">
 			<h2>Previous Versions</h2>
 			<div class="row">
+				<h3>Minecraft 1.9.4</h3>
+					<a class="btn btn-info" href="http://adf.ly/1bDpW3" target="_blank">ExpTranslation v1.1.0 for Minecraft 1.9.4</a>
 				<h3>Minecraft 1.8.7</h3>
 					<a class="btn btn-info" href="http://adf.ly/1KgBhK" target="_blank">ExpTranslation v1.0.0 for Minecraft 1.8.7</a>
 				</div>
