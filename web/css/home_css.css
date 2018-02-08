@@ -16,6 +16,14 @@ body{
 	margin-bottom: 0;
 }
 
+#news .list-group-item{
+	margin-bottom: 10px;
+}
+
+#news .list-group-item h4{
+	font-weight: bold;
+}
+
 #about-me img{
 	margin: auto;
 	display: block;

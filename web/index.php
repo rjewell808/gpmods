@@ -113,7 +113,7 @@
         <!-- /.row -->
 		
 		<!-- Title -->
-        <div class="row">
+        <div id="news" class="row">
             <div class="col-lg-12">
                 <h3>News</h3>
 				<ul class="list-group">

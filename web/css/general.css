@@ -1,4 +1,10 @@
-body{
+html(
+	min-height: 100%;
+	position: relative;
+)
+
+
+body, .footer{
 	background-image: url('/images/p4.png');
 	font-family: 'Poppins', sans-serif;
 }
@@ -14,4 +20,10 @@ a:hover{
 
 hr{
 	border-top-color: #b1b1b1;
+}
+
+.footer{
+	width: 100%;
+	text-align: center;
+	margin: 20px 0;
 }

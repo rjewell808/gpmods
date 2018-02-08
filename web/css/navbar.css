@@ -24,10 +24,6 @@ nav .container-fluid {
 	
 }
 
-footer .row{
-	text-align: center;
-}
-
 .navbar-nav li:hover{
 	background-color: #3a3a3a;
 }

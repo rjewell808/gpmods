@@ -1,16 +1,12 @@
         <hr>
-
-        <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; 2017 - Robert Jewell</p>
-                </div>
-            </div>
-        </footer>
-
     </div>
     <!-- /.container -->
+	<!-- Footer -->
+	<footer class="footer">
+		<div class="container">
+			<p>Copyright &copy; 2017 - 2018 | Robert Jewell</p>
+		</div>
+	</footer>
 	
     <!-- jQuery -->
     <script src="/js/jquery.js"></script>
