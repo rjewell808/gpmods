@@ -16,6 +16,10 @@ body{
 	margin-bottom: 0;
 }
 
+#news{
+	margin-bottom: 50px;
+}
+
 #news .list-group-item{
 	margin-bottom: 10px;
 }
@@ -27,8 +31,13 @@ body{
 #about-me img{
 	margin: auto;
 	display: block;
-	width: 100%;
+	width: 90%;
 	max-width: 350px;
+}
+
+#about-gp-title{
+	margin-top: 0px;
+	margin-bottom: 10px;
 }
 
 .carousel-inner{

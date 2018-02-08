@@ -13,7 +13,7 @@
 <div class="row">
 	<div class="row fix-row">
 		<div class="col-xs-12">
-			<img id="main-logo" src="/images/wintercraft/win_logo.png">
+			<img id="main-logo" alt="Wintercraft Logo" src="/images/wintercraft/win_logo.png">
 			<h1>OVER 250,000 DOWNLOADS!</h1>
 			<p>
 				I welcome you Wintercraft! A mod that adds more wintry/Christmasy items/blocks/events into your Minecraft worlds!

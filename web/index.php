@@ -62,7 +62,7 @@
         <!-- Title -->
         <div class="row">
             <div class="col-lg-12">
-                <h3>My Mods</h3>
+                <h1>My Mods</h1>
             </div>
         </div>
         <!-- /.row -->
@@ -115,12 +115,12 @@
 		<!-- Title -->
         <div id="news" class="row">
             <div class="col-lg-12">
-                <h3>News</h3>
+                <h1>News</h1>
 				<ul class="list-group">
 				  <li class="list-group-item list-group-item">
 					<h4 class="list-group-item-heading">VANILLAPLUS UPDATE - 08/24/2017</h4>
 					<p class="list-group-item-text">VanillaPlus has received the 1.5.1 update for Minecraft 1.7.10. While it's nothing major
-					I figured since 1.7.10 is still the most popular version I'd update it to be very close to the 1.8 version on VanillaPlus. Enjoy!</a>
+					I figured since 1.7.10 is still the most popular version I'd update it to be very close to the 1.8 version on VanillaPlus. Enjoy!
 					</p>
 				  </li>
 				  <li class="list-group-item list-group-item-info">
@@ -135,14 +135,21 @@
 		
 		
 		<div id="about-me" class="row">
-			<h1>About Gruntpie224</h1>
+			<div class="col-md-6">
+			<h1 id="about-gp-title">About Gruntpie224</h1>
 			<p>
-				Hello! I am the creator of three Minecraft mods: <b>Wintercraft</b>, <b>VanillaPlus</b>, and <b>Exp-Translation</b>. My goal is to create mods that I'd want to enjoy myself. 
+				Hello! I am the creator of three Minecraft mods: <strong>Wintercraft</strong>, <strong>VanillaPlus</strong>, and <strong>Exp-Translation</strong>. My goal is to create mods that I'd want to enjoy myself. 
 				Seeing others enjoy my work is one of the greatest benefits to creating these mods in my free time. I hope to one day 
-				make a mod that will wow the Minecraft community but until then I will continue to build on my name. Oh and I also have 
-				<b><a href="https://www.youtube.com/user/DiamondDiggersGaming" target=_blank>YouTube channel</a></b> with Minecraft content as well.  
+				make a mod that will wow the Minecraft community but until then I will continue to build on my name.
+				<br><br>
+				Oh and I also have 
+				<strong><a href="https://www.youtube.com/user/DiamondDiggersGaming" target=_blank>YouTube channel</a></strong> with Minecraft content as well.  
 			</p>
-			<img src="/images/Me.png" alt="Gruntpie224 Bee Avatar">
+			</div>
+			
+			<div class="col-md-6">
+				<img src="/images/Me.png" alt="Gruntpie224 Bee Avatar">
+			</div>
 		</div>
 		<!-- /.row -->
 

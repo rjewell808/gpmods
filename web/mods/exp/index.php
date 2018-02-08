@@ -11,7 +11,7 @@
 ?>
 
 <div class="row">
-	<img id="main-logo" src="/images/exp/exp_logo.png">
+	<img id="main-logo" alt="Exp-Translation Logo" src="/images/exp/exp_logo.png">
 	<h1>OVER 12,000 DOWNLOADS!</h1>
 	<p>
 		Tired of losing levels upon levels of experience to an untimely death or ever wish you could share your experience with a friend? Well now you can with Exp-Translation!
