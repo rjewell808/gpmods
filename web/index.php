@@ -75,7 +75,7 @@
                     <img src="images/thumb_vanilla.png" alt="">
                     <div class="caption">
                         <h3>VanillaPlus</h3>
-                        <p>1.8 / 1.7/ 1.6 / 1.5</p>
+                        <p>1.8 / 1.7 / 1.6 / 1.5</p>
                         <p>
                             <a href="mods/vanillaplus/download/" class="btn btn-info">Download Latest</a> <a href="mods/vanillaplus/" class="btn btn-default">More Info</a>
                         </p>
