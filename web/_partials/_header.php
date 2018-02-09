@@ -30,6 +30,13 @@
 	<link href="/css/navbar.css" rel="stylesheet">
 	<link href={{ page_title }} rel="stylesheet">
 	
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-7894460385932316",
+		enable_page_level_ads: true
+	  });
+	</script>
 
 </head>
 
