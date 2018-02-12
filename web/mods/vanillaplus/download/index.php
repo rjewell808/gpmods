@@ -63,7 +63,7 @@
 					<a class="btn btn-info" href="http://www.mediafire.com/file/kdtv58cjkuguqr5/VanillaPlus%5BV.1.1.2%5D.zip" target="_blank">VanillaPlus v1.1.2 for Minecraft 1.5.2</a>
 					<a class="btn btn-info" href="http://www.mediafire.com/file/9b0jqlo7e2y7927/VanillaPlus%5BV.1.1.1%5D.zip" target="_blank">VanillaPlus v1.1.1 for Minecraft 1.5.2</a>
 					<a class="btn btn-info" href="http://www.mediafire.com/file/13z3sddmn93sal4/VanillaPlus%5BV.1.1.0%5D.zip" target="_blank">VanillaPlus v1.1.0 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/rjzca013kb3a6el/VanillaPlus%5BV.1.0.0%5D.zip" onClick="ga('Downloads', 'VanillaPlus', '1.0.0')" target="_blank">VanillaPlus v1.0.0 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="http://www.mediafire.com/file/rjzca013kb3a6el/VanillaPlus%5BV.1.0.0%5D.zip" target="_blank">VanillaPlus v1.0.0 for Minecraft 1.5.2</a>
 			</div>
 		</div>
 		<div class="col-lg-6">
