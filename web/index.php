@@ -62,7 +62,7 @@
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 			</div>
-			<div class="col-lg-8 col-md-10 hidden-xs hidden-sm">
+			<div class="col-lg-8 col-md-10">
 			
 				<header class="jumbotron hero-spacer visible-sm visible-xs">
 					<h1>Welcome to Gruntpie's Mods</h1>
