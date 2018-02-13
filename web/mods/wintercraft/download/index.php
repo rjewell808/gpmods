@@ -18,8 +18,8 @@
 	<div class="row" id="latest">
 		<h2>Latest Version</h2>
 		<div class="row">
-			<a class="btn btn-success" href="/downloads/?mod=wc&file=Wintercraft-1.8.9-1.1.4.2.jar" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8.9</a><br>
-			<a class="btn btn-success" href="/downloads/?mod=wc&file=Wintercraft-1.8-1.1.4.2.jar" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8</a>
+			<a class="btn btn-success" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.8.9-1.1.4.2.jar" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8.9</a><br>
+			<a class="btn btn-success" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.8-1.1.4.2.jar" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8</a>
 			<br>Requires Minecraft Forge to work
 		</div>
 	</div>
@@ -31,20 +31,20 @@
 			<h2>Previous Versions</h2>
 			<div class="row">
 				<h3>Minecraft 1.8.9</h3>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.8.9-1.1.4.2.jar" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8.9</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.8.9-1.1.4.2.jar" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8.9</a>
 				<h3>Minecraft 1.8</h3>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.8-1.1.4.2.jar" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8</a>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.8-1.1.4.1.jar" target="_blank">Wintercraft v1.1.4.1 for Minecraft 1.8</a>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.8-1.1.4.jar" target="_blank">Wintercraft v1.1.4 for Minecraft 1.8</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.8-1.1.4.2.jar" target="_blank">Wintercraft v1.1.4.2 for Minecraft 1.8</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.8-1.1.4.1.jar" target="_blank">Wintercraft v1.1.4.1 for Minecraft 1.8</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.8-1.1.4.jar" target="_blank">Wintercraft v1.1.4 for Minecraft 1.8</a>
 				<h3>Minecraft 1.7.10</h3>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.7.10-1.1.3.jar" target="_blank">Wintercraft v1.1.3 for Minecraft 1.7.10</a>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.7.10-1.1.2.jar" target="_blank">Wintercraft v1.1.2 for Minecraft 1.7.10</a>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.7.10-1.1.1.jar" target="_blank">Wintercraft v1.1.1 for Minecraft 1.7.10</a>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.7.10-1.1.0.jar" target="_blank">Wintercraft v1.1.0 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.7.10-1.1.3.jar" target="_blank">Wintercraft v1.1.3 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.7.10-1.1.2.jar" target="_blank">Wintercraft v1.1.2 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.7.10-1.1.1.jar" target="_blank">Wintercraft v1.1.1 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.7.10-1.1.0.jar" target="_blank">Wintercraft v1.1.0 for Minecraft 1.7.10</a>
 				<h3>Minecraft 1.7.2</h3>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.7.2-1.1.2.jar" target="_blank">Wintercraft v1.1.2 for Minecraft 1.7.2</a>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.7.2-1.1.1.jar" target="_blank">Wintercraft v1.1.1 for Minecraft 1.7.2</a>
-					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.7.2-1.1.0.jar" target="_blank">Wintercraft v1.1.0 for Minecraft 1.7.2</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.7.2-1.1.2.jar" target="_blank">Wintercraft v1.1.2 for Minecraft 1.7.2</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.7.2-1.1.1.jar" target="_blank">Wintercraft v1.1.1 for Minecraft 1.7.2</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=wc&file=Wintercraft-1.7.2-1.1.0.jar" target="_blank">Wintercraft v1.1.0 for Minecraft 1.7.2</a>
 				<h3>Minecraft 1.6.4</h3>
 					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.6.4-1.0.3.zip" target="_blank">Wintercraft v1.0.3 for Minecraft 1.6.4</a>
 					<a class="btn btn-info" href="/downloads/?mod=wc&file=Wintercraft-1.6.4-1.0.2.zip" target="_blank">Wintercraft v1.0.2 for Minecraft 1.6.4</a>
