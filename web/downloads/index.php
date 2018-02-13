@@ -63,6 +63,7 @@
 		</div>
 	</div>
 </div>
+<br>
 <div class="row">
 	<div class="col-12-xs">
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
