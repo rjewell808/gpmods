@@ -63,6 +63,20 @@
 		</div>
 	</div>
 </div>
+<div class="row">
+	<div class="col-12-xs">
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Sidebar Ads -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-7894460385932316"
+			 data-ad-slot="5970083963"
+			 data-ad-format="auto"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+</div>
 
 <!-- Footer -->
 <?php
