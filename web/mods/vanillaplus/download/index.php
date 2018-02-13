@@ -18,8 +18,8 @@
 	<div class="row" id="latest">
 		<h2>Latest Version</h2>
 		<div class="row">
-			<a class="btn btn-success" href="http://adf.ly/1Nrp8E" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.8</a><br>
-			<a class="btn btn-success" href="http://cogismith.com/1Mpo" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.7.10</a>
+			<a class="btn btn-success" href="/downloads/?mod=vp&file=VanillaPlus-1.8-1.5.1.jar" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.8</a><br>
+			<a class="btn btn-success" href="/downloads/?mod=vp&file=VanillaPlus-1.7.10-1.5.1.jar" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.7.10</a>
 			<br>Requires Minecraft Forge to work
 		</div>
 	</div>
@@ -31,39 +31,40 @@
 			<h2>Previous Versions</h2>
 			<div class="row">
 				<h3>Minecraft 1.8</h3>
-					<a class="btn btn-info" href="http://adf.ly/1Nrp8E" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.8</a>
-					<a class="btn btn-info" href="http://adf.ly/1Q1xg8" target="_blank">VanillaPlus v1.5.0 for Minecraft 1.8</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.8-1.5.1.jar" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.8</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.8-1.5.0.jar" target="_blank">VanillaPlus v1.5.0 for Minecraft 1.8</a>
 				<h3>Minecraft 1.7.10</h3>
-					<a class="btn btn-info" href="http://cogismith.com/1Mpo" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.7.10</a>
-					<a class="btn btn-info" href="http://bit.ly/1tjA8gI" target="_blank">VanillaPlus v1.4.4 for Minecraft 1.7.10</a>
-					<a class="btn btn-info" href="http://adf.ly/sWkK0" target="_blank">VanillaPlus v1.4.3 for Minecraft 1.7.10</a>
-					<a class="btn btn-info" href="http://adf.ly/rLEye" target="_blank">VanillaPlus v1.4.2 for Minecraft 1.7.10</a>
-					<a class="btn btn-info" href="http://adf.ly/qdQAS" target="_blank">VanillaPlus v1.4.1 for Minecraft 1.7.10</a>
-					<a class="btn btn-info" href="http://adf.ly/qLSvk" target="_blank">VanillaPlus v1.4.0 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.10-1.5.1.jar" target="_blank">VanillaPlus v1.5.1 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.10-1.4.4.jar" target="_blank">VanillaPlus v1.4.4 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.10-1.4.3.jar" target="_blank">VanillaPlus v1.4.3 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.10-1.4.2.jar" target="_blank">VanillaPlus v1.4.2 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.10-1.4.1.jar" target="_blank">VanillaPlus v1.4.1 for Minecraft 1.7.10</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.10-1.4.0.jar" target="_blank">VanillaPlus v1.4.0 for Minecraft 1.7.10</a>
 				<h3>Minecraft 1.7.2</h3>
-					<a class="btn btn-info" href="http://bit.ly/100Zaan" target="_blank">VanillaPlus v1.4.4 for Minecraft 1.7.2</a>
-					<a class="btn btn-info" href="http://adf.ly/sWkFm" target="_blank">VanillaPlus v1.4.3 for Minecraft 1.7.2</a>
-					<a class="btn btn-info" href="http://adf.ly/rLF8d" target="_blank">VanillaPlus v1.4.2 for Minecraft 1.7.2</a>
-					<a class="btn btn-info" href="http://adf.ly/qdQVB" target="_blank">VanillaPlus v1.4.1 for Minecraft 1.7.2</a>
-					<a class="btn btn-info" href="http://adf.ly/qLgne" target="_blank">VanillaPlus v1.4.0 for Minecraft 1.7.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.2-1.4.4.jar" target="_blank">VanillaPlus v1.4.4 for Minecraft 1.7.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.2-1.4.3.jar" target="_blank">VanillaPlus v1.4.3 for Minecraft 1.7.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.2-1.4.2.jar" target="_blank">VanillaPlus v1.4.2 for Minecraft 1.7.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.7.2-1.4.1.jar" target="_blank">VanillaPlus v1.4.1 for Minecraft 1.7.2</a>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=vp&file=VanillaPlus-1.7.2-1.4.0.jar" target="_blank">VanillaPlus v1.4.0 for Minecraft 1.7.2</a>
 				<h3>Minecraft 1.6.4</h3>
-					<a class="btn btn-info" href="http://adf.ly/ZBj9d" target="_blank">VanillaPlus v1.3.6 for Minecraft 1.6.4</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/u2kzjr93k7zl7ct/VanillaPlus%5BV.1.3.5%5D.zip" target="_blank">VanillaPlus v1.3.5 for Minecraft 1.6.4</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/1citem9b26tus3z/VanillaPlus%5BV.1.3.4%5D.zip" target="_blank">VanillaPlus v1.3.4 for Minecraft 1.6.4</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/3t9nlps8yb87t9s/VanillaPlus%5BV.1.3.3%5D.zip" target="_blank">VanillaPlus v1.3.3 for Minecraft 1.6.4</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/5qajd0bb6t200r1/VanillaPlus%5BV.1.3.2%5D.zip" target="_blank">VanillaPlus v1.3.2 for Minecraft 1.6.4</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.6.4-1.3.6.zip" target="_blank">VanillaPlus v1.3.6 for Minecraft 1.6.4</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.6.4-1.3.5.zip" target="_blank">VanillaPlus v1.3.5 for Minecraft 1.6.4</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.6.4-1.3.4.zip" target="_blank">VanillaPlus v1.3.4 for Minecraft 1.6.4</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.6.4-1.3.3.zip" target="_blank">VanillaPlus v1.3.3 for Minecraft 1.6.4</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.6.4-1.3.2.zip" target="_blank">VanillaPlus v1.3.2 for Minecraft 1.6.4</a>
 				<h3>Minecraft 1.6.2</h3>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/zgg49m3ynyutbx8/VanillaPlus%5Bv.1.3.1%5D.zip" target="_blank">VanillaPlus v1.3.1 for Minecraft 1.6.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.6.2-1.3.1.zip" target="_blank">VanillaPlus v1.3.1 for Minecraft 1.6.2</a>
 				<h3>Minecraft 1.5.2</h3>
-					<a class="btn btn-info" href="http://adf.ly/b0mne" target="_blank">VanillaPlus v1.3.6 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/2xjpae35857ylez/VanillaPlus%5Bv.1.3.0%5D.zip" target="_blank">VanillaPlus v1.3.0 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/occ78q7pgnxq6n2/VanillaPlus%5Bv.1.2.2%5D.zip" target="_blank">VanillaPlus v1.2.2 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/0g0z9275vm6568w/VanillaPlus%5Bv.1.2.1%5D.zip" target="_blank">VanillaPlus v1.2.1 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/ccna9ajac6u0z7v/VanillaPlus%5BV.1.2.0%5D.zip" target="_blank">VanillaPlus v1.2.0 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/kdtv58cjkuguqr5/VanillaPlus%5BV.1.1.2%5D.zip" target="_blank">VanillaPlus v1.1.2 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/9b0jqlo7e2y7927/VanillaPlus%5BV.1.1.1%5D.zip" target="_blank">VanillaPlus v1.1.1 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/13z3sddmn93sal4/VanillaPlus%5BV.1.1.0%5D.zip" target="_blank">VanillaPlus v1.1.0 for Minecraft 1.5.2</a>
-					<a class="btn btn-info" href="http://www.mediafire.com/file/rjzca013kb3a6el/VanillaPlus%5BV.1.0.0%5D.zip" target="_blank">VanillaPlus v1.0.0 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.3.6.zip" target="_blank">VanillaPlus v1.3.6 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.3.0.zip" target="_blank">VanillaPlus v1.3.0 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.2.2.zip" target="_blank">VanillaPlus v1.2.2 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.2.1.zip" target="_blank">VanillaPlus v1.2.1 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.2.0.zip" target="_blank">VanillaPlus v1.2.0 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.1.2.zip" target="_blank">VanillaPlus v1.1.2 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.1.1.zip" target="_blank">VanillaPlus v1.1.1 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.1.0.zip" target="_blank">VanillaPlus v1.1.0 for Minecraft 1.5.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=vp&file=VanillaPlus-1.5.2-1.0.0.zip" target="_blank">VanillaPlus v1.0.0 for Minecraft 1.5.2</a>
+					<!-- <a class="btn btn-info" href="http://www.mediafire.com/file/rjzca013kb3a6el/VanillaPlus%5BV.1.0.0%5D.zip" target="_blank">VanillaPlus v1.0.0 for Minecraft 1.5.2</a> -->
 			</div>
 		</div>
 		<div class="col-lg-6">

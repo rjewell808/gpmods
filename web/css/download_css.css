@@ -91,3 +91,35 @@ ul{
 ul li{
 	list-style-type: none;
 }
+
+#download-file{
+	width: 100%;
+	margin-top: 0px;
+}
+
+#file-download .btn{
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+
+#file-download h1{
+	text-decoration: none;
+}
+
+#file-download p{
+	text-align: center;
+}
+
+#file-download .col-xl-4, #file-download .col-lg-5,  #file-download .col-md-7, #file-download .col-xs-11{
+	margin: auto;
+	float: none;
+	border: 2px solid #d3655f;
+	border-radius: 6px;
+}
+
+#download-file a{
+	font-size: 16pt;
+	text-align: center;
+	margin: auto;
+	display: block;
+}

@@ -6,6 +6,20 @@ body{
 	padding: 0px;
 }
 
+#left-ad-space, #right-ad-space{
+	width: 0;
+	padding: 0;
+}
+
+#center-content-space{
+	width: 100%;
+	padding: 0;
+}
+
+#left-home-ads, #right-home-ads{
+	margin-top: 15px;
+}
+
 #main-content{
 	width: 100%;
 	padding: 0;

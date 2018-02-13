@@ -1,4 +1,19 @@
-        <hr>
+			</div>
+			
+			<div class="col-lg-2 visible-lg visible-xl" id="right-ad-space">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Sidebar Ads -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-7894460385932316"
+					 data-ad-slot="5970083963"
+					 data-ad-format="auto"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+		</div>
+		<hr>
     </div>
     <!-- /.container -->
 	<!-- Footer -->

@@ -50,7 +50,7 @@
 		
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-lg-2 col-md-1 hidden-xs hidden-sm">
+			<div class="col-lg-2 col-md-1 hidden-xs hidden-sm" id="left-home-ads">
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- Sidebar Ads -->
 				<ins class="adsbygoogle"
@@ -131,18 +131,26 @@
 					<div class="col-lg-12">
 						<h1>News</h1>
 						<ul class="list-group">
-						  <li class="list-group-item list-group-item">
-							<h4 class="list-group-item-heading">VANILLAPLUS UPDATE - 08/24/2017</h4>
-							<p class="list-group-item-text">VanillaPlus has received the 1.5.1 update for Minecraft 1.7.10. While it's nothing major
-							I figured since 1.7.10 is still the most popular version I'd update it to be very close to the 1.8 version on VanillaPlus. Enjoy!
-							</p>
-						  </li>
-						  <li class="list-group-item list-group-item-info">
-							<h4 class="list-group-item-heading">GPMODS.NET LAUNCH - 08/17/2017</h4>
-							<p class="list-group-item-text">Welcome to the brand new website where I'll be hosting my mods! Please explore and be
-							sure to suggest any ideas at: <a href="mailto:diamonddiggersgaming@gmail.com">diamonddiggersgaming@gmail.com</a>
-							</p>
-						  </li>
+							<li class="list-group-item list-group-item-info">
+								<h4 class="list-group-item-heading">AD-DITIONAL VALUES - 02/13/2018</h4>
+								<p class="list-group-item-text">You may have noticed the addition of ads placed on the website. I've been wanting to do this ever
+								since I created the site to help support the mods. These ads will go towards hosting the site and keeping me motivated. I've also decided to start
+								hosting the mods on the site itself instead of MediaFire for more control on how things are handled. For the most part this will not be changing
+								too much. Plus, Ad-block is always there if need be. Thank you!
+								</p>
+							</li>
+							<li class="list-group-item list-group-item">
+								<h4 class="list-group-item-heading">VANILLAPLUS UPDATE - 08/24/2017</h4>
+								<p class="list-group-item-text">VanillaPlus has received the 1.5.1 update for Minecraft 1.7.10. While it's nothing major
+								I figured since 1.7.10 is still the most popular version, I'd update it to be very close to the 1.8 version of VanillaPlus. Enjoy!
+								</p>
+							</li>
+							<li class="list-group-item list-group-item-info">
+								<h4 class="list-group-item-heading">GPMODS.NET LAUNCH - 08/17/2017</h4>
+								<p class="list-group-item-text">Welcome to the brand new website where I'll be hosting my mods! Please explore and be
+								sure to suggest any ideas at: <a href="mailto:diamonddiggersgaming@gmail.com">diamonddiggersgaming@gmail.com</a>
+								</p>
+							</li>
 						</ul>
 					</div>
 				</div>
@@ -167,7 +175,7 @@
 				</div>
 				<!-- /.row -->
 			</div>
-			<div class="col-lg-2 col-md-1 hidden-xs hidden-sm">
+			<div class="col-lg-2 col-md-1 hidden-xs hidden-sm" id="right-home-ads">
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- Sidebar Ads -->
 				<ins class="adsbygoogle"

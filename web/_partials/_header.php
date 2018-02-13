@@ -90,4 +90,19 @@
     </nav>
 	
 	<!-- Page Content -->
-    <div class="container" id="main-content">
+    <div class="container-fluid" id="main-content">
+		<div class="row">
+			<div class="col-lg-2 visible-lg visible-xl" id="left-ad-space">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Sidebar Ads -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-7894460385932316"
+					 data-ad-slot="5970083963"
+					 data-ad-format="auto"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+			
+			<div class="col-lg-8" id="center-content-space">
