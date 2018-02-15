@@ -6,8 +6,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="GPMods is the home to the VanillaPlus, Wintercraft, and Exp-Translation Minecraft Mods!">
+    <meta name="author" content="Robert Jewell">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
     <title>Gruntpie's Mods</title>
 	<link rel="shortcut icon" href="/images/icon.ico" />
