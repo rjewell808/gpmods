@@ -12,7 +12,7 @@
 
 <div class="row">
 	<img id="main-logo" alt="VanillaPlus Logo" src="/images/vanillaplus/van_logo.png">
-	<h1>OVER 240,000 DOWNLOADS!</h1>
+	<h1>OVER 250,000 DOWNLOADS!</h1>
 	<p>
 		Have you ever wanted a use for those stacks of rotten flesh or ever wanted a way to craft bottles of XP or just store it away?
 		Well this is the mod for you! This mod adds blocks and items that would normally fit into the game but just aren't there, and gives the most useless items a use!

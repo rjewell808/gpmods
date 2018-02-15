@@ -14,7 +14,7 @@
 	<div class="row fix-row">
 		<div class="col-xs-12">
 			<img id="main-logo" alt="Wintercraft Logo" src="/images/wintercraft/win_logo.png">
-			<h1>OVER 250,000 DOWNLOADS!</h1>
+			<h1>OVER 260,000 DOWNLOADS!</h1>
 			<p>
 				I welcome you Wintercraft! A mod that adds more wintry/Christmasy items/blocks/events into your Minecraft worlds!
 				Have you ever wanted Santa to visit or maybe have it snow in every biome? Then check this mod out for that and much more!

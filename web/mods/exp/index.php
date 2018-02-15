@@ -12,7 +12,7 @@
 
 <div class="row">
 	<img id="main-logo" alt="Exp-Translation Logo" src="/images/exp/exp_logo.png">
-	<h1>OVER 12,000 DOWNLOADS!</h1>
+	<h1>OVER 15,000 DOWNLOADS!</h1>
 	<p>
 		Tired of losing levels upon levels of experience to an untimely death or ever wish you could share your experience with a friend? Well now you can with Exp-Translation!
 		Simply craft an ExpTranslator Table and some vials to store as many levels of experience as you wish! Just right-click the vials on the table to get started!
