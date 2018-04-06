@@ -29,7 +29,7 @@
 		<?php echo $twig->render('_recipe_exp.php', array(
 			'name' => "Bulk Vials",
 			'pic' => "recipe-large-exp.PNG",
-			'desc' => "For a more convenient way of storage"
+			'desc' => "For a more convenient way of storage (Removed in 1.2.0+)"
 		)); ?>
 	</div>
 	
@@ -37,7 +37,7 @@
 		<?php echo $twig->render('_recipe_exp.php', array(
 			'name' => "Single Vials",
 			'pic' => "recipe-exp.PNG",
-			'desc' => "To get them back into their original form"
+			'desc' => "To get them back into their original form (Removed in 1.2.0+)"
 		)); ?>
 
 	</div>
