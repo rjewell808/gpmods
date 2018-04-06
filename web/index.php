@@ -115,7 +115,7 @@
 							<img src="images/thumb_exp.png" alt="">
 							<div class="caption">
 								<h3>Exp-Translation</h3>
-								<p>1.9 / 1.8</p>
+								<p>1.12 / 1.9 / 1.8</p>
 								<p>
 									<a href="mods/exp/download/" class="btn btn-info">Download Latest</a> <a href="mods/exp/" class="btn btn-default">More Info</a>
 								</p>
@@ -131,6 +131,12 @@
 					<div class="col-lg-12">
 						<h1>News</h1>
 						<ul class="list-group">
+							<li class="list-group-item list-group-item">
+								<h4 class="list-group-item-heading">EXPTRANSLATION UPDATE - 04/06/2018</h4>
+								<p class="list-group-item-text"> ExpTranslation is the first of a few mods being brought to 1.12.2. In this version the gameplay balance bug
+								has been fixed, so you can now use it once again without that guilt! Stay tuned for more information soon!
+								</p>
+							</li>
 							<li class="list-group-item list-group-item-info">
 								<h4 class="list-group-item-heading">AD-DITIONAL VALUES - 02/13/2018</h4>
 								<p class="list-group-item-text">You may have noticed the addition of ads placed on the website. I've been wanting to do this ever

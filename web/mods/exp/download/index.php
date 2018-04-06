@@ -18,7 +18,7 @@
 	<div class="row" id="latest">
 		<h2>Latest Version</h2>
 		<div class="row">
-			<a class="btn btn-success" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=exp&file=ExpTranslation-1.9.4-1.1.0.jar" target="_blank">ExpTranslation v1.1.0 for Minecraft 1.9.4</a>
+			<a class="btn btn-success" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=exp&file=ExpTranslation-1.12.2-1.2.0.jar" target="_blank">ExpTranslation v1.2.0 for Minecraft 1.12.2</a>
 			<br>Requires Minecraft Forge to work
 		</div>
 	</div>
@@ -29,6 +29,8 @@
 		<div class="col-lg-6">
 			<h2>Previous Versions</h2>
 			<div class="row">
+				<h3>Minecraft 1.12.2</h3>
+					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=exp&file=ExpTranslation-1.12.2-1.2.0.jar" target="_blank">ExpTranslation v1.2.0 for Minecraft 1.12.2</a>
 				<h3>Minecraft 1.9.4</h3>
 					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=exp&file=ExpTranslation-1.9.4-1.1.0.jar" target="_blank">ExpTranslation v1.1.0 for Minecraft 1.9.4</a>
 				<h3>Minecraft 1.8.7</h3>
@@ -70,6 +72,19 @@
 	<div class="row">
 		<h2>Changelog</h2>
 			<pre>
+<strong>ExpTranslation v1.12.2</strong>			
+* Updated - 1.12.2
+* Changed - Experience is now stored with actual experience value instead of by levels
+	- Helps keep the mod balanced with Vanilla gameplay
+	- You now store all of your exp you have when used
+* Fixed - You can cheat the system by transferring levels quickly
+* Fixed - You can only craft Empty Vials with wooden oak slabs
+* Fixed - You can only craft the ExpTranslator with oak logs / white wool
+* Fixed - Textures aren't centered
+* Fixed - mcmod logo
+* Removed - Bulk Vials
+* Removed - ExpTranslation creative tab
+
 <strong>ExpTranslation v1.1.0</strong>
 *Updated to 1.9.4
 
