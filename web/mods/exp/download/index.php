@@ -72,7 +72,7 @@
 	<div class="row">
 		<h2>Changelog</h2>
 			<pre>
-<strong>ExpTranslation v1.12.2</strong>			
+<strong>ExpTranslation v1.2.0</strong>			
 * Updated - 1.12.2
 * Changed - Experience is now stored with actual experience value instead of by levels
 	- Helps keep the mod balanced with Vanilla gameplay
