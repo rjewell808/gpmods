@@ -13,7 +13,7 @@
 <div class="row">
 	<div class="col-xs-12">
 		<a href=".." class="btn btn-default"><span class="glyphicon glyphicon-arrow-left"></span> Back - Wintercraft</a>
-		<h1>Wintercraft Mobs</h1>
+		<h1>Wintercraft <span class="small" id="hypen">/ Mobs</span></h1>
 	</div>
 </div>
 

@@ -13,7 +13,7 @@
 <div class="col-lg-12">
 	<a href=".." class="btn btn-default"><span class="glyphicon glyphicon-arrow-left"></span> Back - VanillaPlus</a>
 	
-	<h1>VanillaPlus <span id="hypen">-</span> Downloads</h1>
+	<h1>VanillaPlus <span class="small" id="hypen">/ Downloads</span></h1>
 	
 	<div class="row" id="latest">
 		<h2>Latest Version</h2>

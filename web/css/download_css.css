@@ -1,9 +1,8 @@
-h1{
+
+h1{	
 	text-align: center;
 	font-weight: bold;
 	font-size: 32pt;
-	text-transform: uppercase;
-	text-decoration: underline;
 }
 
 @media(max-width: 712px)
