@@ -76,10 +76,26 @@
 					<li class="dropdown nav-lvl-1">
 						<a href="#" class="nav-link-main dropdown-toggle" data-toggle="dropdown">MODS <b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="/mods/vanillaplus/">VanillaPlus</a></li>
-							<li><a href="/mods/wintercraft/">Wintercraft</a></li>
-							<li><a href="/mods/exp/">Exp-Translation</a></li>
-							<li><a href="/mods/modpack-policy/">Modpack Policy</a></li>
+							<li>
+								<a href="/mods/vanillaplus/">
+									<img src="/images/vanillaplus/van_icon.png"><p>VanillaPlus</p>
+								</a>
+							</li>
+							<li>
+								<a href="/mods/wintercraft/">
+									<img src="/images/wintercraft/win_icon.png"><p>Wintercraft</p>
+								</a>
+							</li>
+							<li>
+								<a href="/mods/exp/">
+									<img src="/images/exp/exp_icon.png"><p>Exp-Translation</p>
+								</a>
+							</li>
+							<li>
+								<a href="/mods/modpack-policy/">
+									<img src="/images/modpack/modpack_icon.png"><p>Modpack Policy</p>
+								</a>
+							</li>
 						</ul>
 					</li>
                     <li class="nav-lvl-1">
