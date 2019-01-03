@@ -136,7 +136,7 @@
 								has been fixed, so you can now use it once again without that guilt! Stay tuned for more information soon!
 								</p>
 							</li>
-							<li class="list-group-item list-group-item-info">
+							<li class="list-group-item list-group-item">
 								<h4 class="list-group-item-heading">AD-DITIONAL VALUES - 02/13/2018</h4>
 								<p class="list-group-item-text">You may have noticed the addition of ads placed on the website. I've been wanting to do this ever
 								since I created the site to help support the mods. These ads will go towards hosting the site and keeping me motivated. I've also decided to start
@@ -150,7 +150,7 @@
 								I figured since 1.7.10 is still the most popular version, I'd update it to be very close to the 1.8 version of VanillaPlus. Enjoy!
 								</p>
 							</li>
-							<li class="list-group-item list-group-item-info">
+							<li class="list-group-item list-group-item">
 								<h4 class="list-group-item-heading">GPMODS.NET LAUNCH - 08/17/2017</h4>
 								<p class="list-group-item-text">Welcome to the brand new website where I'll be hosting my mods! Please explore and be
 								sure to suggest any ideas at: <a href="mailto:robertjewell808@gmail.com">robertjewell808@gmail.com</a>
