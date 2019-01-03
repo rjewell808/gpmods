@@ -18,7 +18,7 @@
 	<div class="row" id="latest">
 		<h2>Latest Version</h2>
 		<div class="row">
-			<a class="btn btn-success" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=exp&file=ExpTranslation-1.12.2-1.2.0.jar" target="_blank">ExpTranslation v1.2.0 for Minecraft 1.12.2</a>
+			<a class="btn btn-success" href="/downloads/?mod=exp&file=ExpTranslation-1.12.2-1.2.0.jar">ExpTranslation v1.2.0 for Minecraft 1.12.2</a>
 			<br>Requires Minecraft Forge to work
 		</div>
 	</div>
@@ -30,11 +30,11 @@
 			<h2>Previous Versions</h2>
 			<div class="row">
 				<h3>Minecraft 1.12.2</h3>
-					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=exp&file=ExpTranslation-1.12.2-1.2.0.jar" target="_blank">ExpTranslation v1.2.0 for Minecraft 1.12.2</a>
+					<a class="btn btn-info" href="/downloads/?mod=exp&file=ExpTranslation-1.12.2-1.2.0.jar">ExpTranslation v1.2.0 for Minecraft 1.12.2</a>
 				<h3>Minecraft 1.9.4</h3>
-					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=exp&file=ExpTranslation-1.9.4-1.1.0.jar" target="_blank">ExpTranslation v1.1.0 for Minecraft 1.9.4</a>
+					<a class="btn btn-info" href="/downloads/?mod=exp&file=ExpTranslation-1.9.4-1.1.0.jar">ExpTranslation v1.1.0 for Minecraft 1.9.4</a>
 				<h3>Minecraft 1.8.7</h3>
-					<a class="btn btn-info" href="http://adf.ly/1026464/gpmods.net/downloads/?mod=exp&file=ExpTranslation-1.8.7-1.0.0.jar" target="_blank">ExpTranslation v1.0.0 for Minecraft 1.8.7</a>
+					<a class="btn btn-info" href="/downloads/?mod=exp&file=ExpTranslation-1.8.7-1.0.0.jar">ExpTranslation v1.0.0 for Minecraft 1.8.7</a>
 				</div>
 		</div>
 		<div class="col-lg-6">
@@ -46,7 +46,7 @@
 				<h2>Credits</h2>
 				<p>
 					<ul>
-					<li>gruntpie224 - Creator</li>
+					<li>Me - Creator</li>
 					<li>Tree_Bek - Early code foundation</li>
 					<li>Minecraft Forge - Making it possible</li>
 					</ul>
