@@ -126,6 +126,11 @@
 						<h1>News</h1>
 						<ul class="list-group">
 							<li class="list-group-item list-group-item">
+								<h4 class="list-group-item-heading">ADFLY BEGONE - 01/03/2019</h4>
+								<p class="list-group-item-text"> New year, no ads! Decided to stop the Adfly links after all this time as you guys have helped me out more than enough in the past with them, though this also means support for the mods is probably going to stop as time is limited nowadays. It's been fun, if you're a modder yourself and want to continue development feel free to contact me! They're also on GitHub so feel free to fork! Thanks again!
+								</p>
+							</li>
+							<li class="list-group-item list-group-item">
 								<h4 class="list-group-item-heading">EXPTRANSLATION UPDATE - 04/06/2018</h4>
 								<p class="list-group-item-text"> ExpTranslation is the first of a few mods being brought to 1.12.2. In this version the gameplay balance bug
 								has been fixed, so you can now use it once again without that guilt! Stay tuned for more information soon!
