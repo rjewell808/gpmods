@@ -10,43 +10,37 @@
          ));
 ?>
 		
-        <!-- Jumbotron Header -->
-        <div id="carousel-example-generic" class="carousel slide hidden-sm hidden-xs" data-ride="carousel">
-		 
-		  <ol class="carousel-indicators">
+    <!-- Jumbotron Header -->
+    <div id="carousel-example-generic" class="carousel slide hidden-sm hidden-xs" data-ride="carousel">
+		<ol class="carousel-indicators">
 			<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 			<li data-target="#carousel-example-generic" data-slide-to="1"></li>
 			<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-		  </ol>
-
-		
-		  
+		</ol>	  
 		 
-		  <div class="carousel-inner" role="listbox">
+		<div class="carousel-inner" role="listbox">
 			<header class="jumbotron hero-spacer" id="overlay">
-				<h1>Welcome to Gruntpie's Mods</h1>
+				<h1>Welcome to GP's Mods</h1>
 				<p>
 					This is the home of Wintercraft, VanillaPlus, and Exp-Translation! 
 					<br>
 					Here you'll be able to find all the latest info and update information on my many mods. 
 				</p>
 			</header>
-		  
-			<div class="item active">
-			  <img src="/images/slide/slide_1.png" alt="...">
-			</div>
-			
-			<div class="item">
-			  <img src="/images/slide/slide_2.png" alt="...">
-			</div>
-			
-			<div class="item">
-			  <img src="/images/slide/slide_3.png" alt="...">
-			</div>
-		  </div>
 
-		
-		</div>  
+			<div class="item active">
+				<img src="/images/slide/slide_1.png" alt="...">
+			</div>
+
+			<div class="item">
+				<img src="/images/slide/slide_2.png" alt="...">
+			</div>
+
+			<div class="item">
+				<img src="/images/slide/slide_3.png" alt="...">
+			</div>
+		</div>
+	</div>  
 		
 	<div class="container-fluid">
 		<div class="row">
@@ -65,7 +59,7 @@
 			<div class="col-lg-8 col-md-10">
 			
 				<header class="jumbotron hero-spacer visible-sm visible-xs">
-					<h1>Welcome to Gruntpie's Mods</h1>
+					<h1>Welcome to GP's Mods</h1>
 					<p>
 						This is the home of Wintercraft, VanillaPlus, and Exp-Translation! 
 						<br>
@@ -154,7 +148,7 @@
 							<li class="list-group-item list-group-item-info">
 								<h4 class="list-group-item-heading">GPMODS.NET LAUNCH - 08/17/2017</h4>
 								<p class="list-group-item-text">Welcome to the brand new website where I'll be hosting my mods! Please explore and be
-								sure to suggest any ideas at: <a href="mailto:diamonddiggersgaming@gmail.com">diamonddiggersgaming@gmail.com</a>
+								sure to suggest any ideas at: <a href="mailto:robertjewell808@gmail.com">robertjewell808@gmail.com</a>
 								</p>
 							</li>
 						</ul>
@@ -164,19 +158,16 @@
 				
 				<div id="about-me" class="row">
 					<div class="col-md-6">
-					<h1 id="about-gp-title">About Gruntpie224</h1>
+					<h1 id="about-gp-title">About Me</h1>
 					<p>
 						Hello! I am the creator of three Minecraft mods: <strong>Wintercraft</strong>, <strong>VanillaPlus</strong>, and <strong>Exp-Translation</strong>. My goal is to create mods that I'd want to enjoy myself. 
 						Seeing others enjoy my work is one of the greatest benefits to creating these mods in my free time. I hope to one day 
 						make a mod that will wow the Minecraft community but until then I will continue to build on my name.
-						<br><br>
-						Oh and I also have 
-						<strong><a href="https://www.youtube.com/user/DiamondDiggersGaming" target=_blank>YouTube channel</a></strong> with Minecraft content as well.  
 					</p>
 					</div>
 					
 					<div class="col-md-6">
-						<img src="/images/Me.png" alt="Gruntpie224 Bee Avatar">
+						<img src="/images/Me.png" alt="Dev Bee Avatar">
 					</div>
 				</div>
 				<!-- /.row -->

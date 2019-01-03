@@ -19,9 +19,8 @@
 <div class="row">
 	<div class="col-md-6">
 		<h2>Contact</h2>
-		Email: <a href="mailto:diamonddiggersgaming@gmail.com" target="_blank">diamonddiggersgaming@gmail.com</a>
+		Email: <a href="mailto:robertjewell808@gmail.com" target="_blank">robertjewell808@gmail.com</a>
 		<br>Twitter: <a href="https://twitter.com/RobertTheJewell" target="_blank">@RobertTheJewell</a>
-		<br>YouTube: <a href="https://www.youtube.com/c/diamonddiggersgaming" target="_blank">DDGaming</a>
 		<br>Minecraft Forums: <a href="http://www.minecraftforum.net/members/gruntpie224" target="_blank">gruntpie224</a>
 	</div>
 	<div class="col-md-6">

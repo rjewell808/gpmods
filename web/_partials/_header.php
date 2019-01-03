@@ -10,7 +10,7 @@
     <meta name="author" content="Robert Jewell">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>Gruntpie's Mods</title>
+    <title>GP's Mods</title>
 	<link rel="shortcut icon" href="/images/icon.ico" />
 	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700" rel="stylesheet">
 	
